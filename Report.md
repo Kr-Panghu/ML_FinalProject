@@ -13,7 +13,7 @@ tags: 机器学习 Final Project
 
 ## Part1: Fashion-MNIST clothing classification
 
-> For this part, I use the data fashion-MNIST (data_required_opt1.zip on canvas).
+> For this part, I use the data fashion-MNIST (data_required_opt1.zip on canvas). You can reach the codes in /data_required_opt1/FashionNet.ipynb
 
 The DNN designed on my own, I called it **FashionNet**.
 
@@ -269,7 +269,7 @@ For reference, here is a partial image of each digit in the MNIST dataset:
 
 ## Part2: Image Reconstruction
 
-> For this part, I use the data simplified LFW (data_option1_opt2.zip on canvas).
+> For this part, I use the data simplified LFW (data_option1_opt2.zip on canvas). You can reach the codes in /data_optional1_opt2/VAE.ipynb
 
 ### VAE Model
 
