@@ -5,8 +5,11 @@ tags: 机器学习 Final Project
 # Machine Learning Final Project
 
 > Author: Kr.Cen 康瑞 岑
+> 
 > Student ID: 521021910151
+> 
 > Date: 2023.6.06
+> 
 > Hint: This is a report for CS3308 Machine Learning final project
 >
 > You can reach my codes by https://github.com/Kr-Panghu/ML_FinalProject, where I presented the codes and the results in jupyter notebook. Both two parts use Pytorch framework instead of Tensorflow framework.
